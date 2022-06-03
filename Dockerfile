@@ -14,8 +14,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN ls /app
-
 RUN pip3 install -r requirements.txt
     
 EXPOSE 5000
