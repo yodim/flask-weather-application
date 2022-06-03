@@ -8,4 +8,5 @@ Make sure you have Docker installed on your machine, then run the following comm
 
 `docker run -p 5000:5000 flask-app`
 
-and the applcation should be running on your localhost at the port 5000 (localhost:5000)
+and the applcation should be running on the link showed in your Terminal on port 5000.
+Note that the image might take some time to build.
