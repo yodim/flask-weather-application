@@ -1,0 +1,10 @@
+flask
+flask_bootstrap
+flask_wtf
+wtforms
+flask_sqlalchemy
+werkzeug
+flask_login
+http.client
+folium
+numpy==1.19.2
