@@ -4,6 +4,7 @@ A simple Flask application tells you your geolocation and the weather there base
 ### How to run ?
 clone the repo to your local machine and cd into it.
 Make sure you have Docker installed on your machine, then run the following command:
+
 `docker build -t flask-app .`
 
 `docker run -p 5000:5000 flask-app`
